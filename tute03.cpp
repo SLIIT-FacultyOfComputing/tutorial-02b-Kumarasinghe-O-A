@@ -11,7 +11,7 @@ int main(void){
   int no;
   long fac;
 
-  std::cout<<"Enter numeber: ";
+  std::cout<<"Enter number: ";
   std::cin>>no;
 
   fac = 1;
